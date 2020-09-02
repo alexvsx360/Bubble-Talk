@@ -1,0 +1,8 @@
+main {
+  min-height: 550px;
+}
+
+.pos-fix {
+  position: relative;
+  top: -8px;
+}
